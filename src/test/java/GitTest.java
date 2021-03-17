@@ -12,6 +12,9 @@ public class GitTest {
         for (int i = 0; i < 10 ; i++) {
             if(i>0){
                 System.out.println(i);
+
+
+                System.out.println("SCRUM RUNNER BRANCH");
             }
         }
 
